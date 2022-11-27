@@ -7,6 +7,9 @@ This is my Portfolio project
 [Visit Demo Website](https://portfolio-adesola.timikycool.repl.co/)
 
 
+![Profile screenshot](https://user-images.githubusercontent.com/112424794/204155672-b8f909f6-767f-4acf-8b09-af4c5bdf2340.PNG)
+
+
 ## Tech used
 * HTML
 * CSS
